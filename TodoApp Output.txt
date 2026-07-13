@@ -1,0 +1,28 @@
+===== ToDoApp =====
+1. Add Task
+2. View Task
+3. Complete Task
+4. Delete Task
+5. Exit
+Enter choice: 1
+
+Enter Task: Learn Java
+Task Added Successfully
+
+===== ToDoApp =====
+Enter choice: 2
+
+Task List:
+1. Learn Java - Pending
+
+===== ToDoApp =====
+Enter choice: 3
+
+Enter task number: 1
+Task Completed
+
+===== ToDoApp =====
+Enter choice: 2
+
+Task List:
+1. Learn Java - Completed
